@@ -29,8 +29,7 @@
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/">Here</a>.</li>
             <li>😄 <b>Fun fact</b>: I love F1(🚗), Codeing(💻), Traveling(🌍), and Food(🍔).</li>
             <li>👨‍💻 <b> Obejtive Full Stack Development</b>.</li>
-    </div>
-    <div aling=center>   
+    </div>  
         ### 🛠 &nbsp;Tech Stack
         ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
         ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,7 +39,6 @@
         ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
         ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
         ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-    </div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
