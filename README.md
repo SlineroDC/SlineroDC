@@ -10,7 +10,7 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/sebastianlinero"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-        <a href="mailto:sebastianlinero15@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+        <a href="mailto:sebastianlinero15@gmail.com"><img src="https://img.shields.io/badge/-sebastianlinero15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     </div>
     <div align=left>
         <br>
