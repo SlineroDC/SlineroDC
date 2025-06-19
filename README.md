@@ -27,9 +27,8 @@
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="ponermicv">LINK TO MY RESUME</a>.</li>
             -->
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love F1(🚗), Codeing(💻), Traveling(🌍), and Food(🍔).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>.</li>
+            <li>👨‍💻 <b> Obejtive Full Stack Development</b>.</li>
     </div>
     <div aling=center>   
         ### 🛠 &nbsp;Tech Stack
