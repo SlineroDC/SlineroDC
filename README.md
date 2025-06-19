@@ -2,7 +2,7 @@
 
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://e7.pngegg.com/pngimages/118/687/png-clipart-formula-one-cartoon-car-driving-car.png" alt="GitHub F1" height="200">
     </div>
     <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sebastian+Develeper+Junior" alt="Typing SVG" /></a>
