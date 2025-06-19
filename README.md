@@ -31,7 +31,7 @@
             <li>😄 <b>Fun fact</b>: I love F1(🚗), Codeing(💻), Traveling(🌍), and Food(🍔).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>.</li>
     </div>
-    <div aling=right>   
+    <div aling=center>   
         ### 🛠 &nbsp;Tech Stack
         ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
         ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
