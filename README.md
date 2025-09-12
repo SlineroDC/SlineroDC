@@ -16,8 +16,8 @@
         <br>
         <p>
             <strong>
-                Programming, Go to Back-End Engineer in C#, Problem Solve ,and Open-Source Enthusiast.<br><br>
-                I specialize in Landing Pages with HTML,CSS and JavaScript. Back-End with Python 
+                Programming, Go to Back-End Developer in C#, Problem Solve ,and Open-Source Enthusiast.<br><br>
+                I specialize in Landing Pages with HTML,CSS and JavaScript. Back-End wich JavaScript 
             </strong>
         </p>
         <ul>
