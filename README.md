@@ -4,7 +4,7 @@
     <div align=center>
         <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="300px" /></p>
     </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=D22510&background=FF282839&width=435&lines=I'm+Sebastian+Linero+Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1500&color=D22510&background=FF282839&width=500&lines=I'm+Sebastian+Linero+Software+Developer" alt="Typing SVG" /></a>
 
 I am a **Software Developer** transitioning from a career in accounting and logistics. My previous background gives me a unique perspective on **process optimization and data management**—skills I now apply to building robust and efficient tech solutions.
 
