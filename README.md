@@ -1,31 +1,42 @@
 <!--**SlineroDC/SlineroDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div>
-    <div align=center>
+    <div align="center">
         <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" width="300px" /></p>
     </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=1500&color=D22510&background=FF282839&width=500&lines=I'm+Sebastian+Linero+Software+Developer" alt="Typing SVG" /></a>
 
-I am a **Software Developer** transitioning from a career in accounting and logistics. My previous background gives me a unique perspective on **process optimization and data management**—skills I now apply to building robust and efficient tech solutions.
+I am a **Software Developer & Proxy Product Owner** transitioning from a career in accounting and logistics. My financial and operational background gives me a unique advantage in process optimization, database architecture, and agile workflow design—skills I now apply to building robust systems at **Jamar** and consolidating at the **Riwi** high-performance bootcamp.
 
-I am currently consolidating my training at the **Riwi** high-performance bootcamp, focusing on **Back-End Development (Node.js, C#)** and Agile methodologies.
+I specialize in bridging the gap between business strategic needs (Innovation) and technical engineering teams, leveraging automation, clean backend code (**Node.js, C#**), and AI-driven workflows.
 
-- 🔭 I’m currently working on mastering the .NET ecosystem (C#).
-- 🌱 I’m currently learning about microservices architecture and Docker.
-- 👯 I’m looking to collaborate on open-source projects related to FinTech or LogiTech.
-- 💬 Ask me about my career transition, Scrum, or Product Management.
+- 🔭 I’m currently building scalable retail & FinTech integration projects at **Jamar**.
+- 🌱 I’m mastering the **.NET** ecosystem, microservices architecture, and **Docker** containerization.
+- ⚙️ I build automated backlogs and workflow pipelines using **n8n** and **LLM APIs**.
+- 💬 Ask me about agile product management, business process automation, or **BDD/Scrum**.
 - 📫 How to reach me: [sebastianlinero15@gmail.com](mailto:sebastianlinero15@gmail.com)
-- ⚡ Fun fact: I love F1, traveling, and applying accounting logic to find bugs in my code!
+- ⚡ Fun fact: I love **F1**, traveling, and applying accounting logic to audit and squash complex bugs in my code!
+
+<br/>
+
+## ⚙️ My Agile & Automation "Work OS"
+
+I design and execute structured pipelines to accelerate the software delivery lifecycle:
+
+*   **Business Translation:** Diagnosing pain points and drafting viable MVP proposals.
+*   **Visual Mapping:** Designing functional logic maps in Mermaid and collaborative Product Vision Boards in Miro.
+*   **Agile Handoff:** Writing BDD (Behavior-Driven Development) User Stories and automating Jira/Azure DevOps backlog imports.
 
 <br/>
 
 ## 🚀 My Featured Projects
 
-These are the projects that best demonstrate my current skills:
+These are the projects that best demonstrate my engineering and agile leadership skills:
 
 | Project | Description | Role |
 | :--- | :--- | :--- |
 | **Connect BQ** | An MVP for an urban mobility platform in Barranquilla (Node.js, Express, MongoDB, Leaflet.js). | **Product Owner & Scrum Master** |
+| **AI-Powered Jira Automator** | (Upcoming) An integration pipeline using n8n and OpenAI/Gemini APIs to generate structured technical backlogs from product intakes. | **Lead Automation Developer** |
 | **Bill Up** | A gamified financial literacy SPA for young people (JavaScript, HTML5, TailwindCSS, Json-Server). | **Collaborating Developer** |
 
 <br/>
@@ -38,7 +49,7 @@ These are the projects that best demonstrate my current skills:
       <th width="25%" align="center">Back-End</th>
       <th width="25%" align="center">Front-End</th>
       <th width="25%" align="center">Databases</th>
-      <th width="25%" align="center">Tools & Methodologies</th>
+      <th width="25%" align="center">Agile & Automation</th>
     </tr>
   </thead>
   <tbody>
